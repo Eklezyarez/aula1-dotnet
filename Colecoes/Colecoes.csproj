@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFrame
+    <TargetFramework>netcoreapp3.1</TargetFram
   </PropertyGroup>
 
 </Project>
